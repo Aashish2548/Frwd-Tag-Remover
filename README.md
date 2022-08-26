@@ -38,7 +38,7 @@ Telegram Bot to Remove forward tag from any Post .
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kunal-Diwan/Frwd-Tag-Remover)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aashish2548/Frwd-Tag-Remover)</br>
 
 #### Deploy in your VPS
 ````bash
