@@ -7,7 +7,7 @@
     "remover",
     "tg_bot"
   ],
-  "repository": "https://github.com/Kunal-Diwan/Frwd-Tag-Remover",
+  "repository": "https://github.com/Aashish2548/Frwd-Tag-Remover",
   "logo": "https://telegra.ph/file/9473b26ed5594247778a8.jpg",
   "env": {
     "BOT_TOKEN": {
